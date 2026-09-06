@@ -5,10 +5,10 @@ To choose a position with opportunities to utilize my technical experience, skil
 the better achievement of the organization.
 Experience
 • OCT2019 - DEC 2019
-Zia UddinCollege of Physiotherapy (Officer Assistant)
+Ziauddin College of Physiotherapy (Officer Assistant)
 • Jan2022 - March 2022
 Global Business Industry (Customer Representative)
-Educatjon
+Education
 • BA from "Sir Syed Govt Girls College" in 2019.
 • Intermediate from "Sir Syed Govt Girls College" in 2013.
 • Matriculation In Science from "Naveed Public Secondary School" in 
@@ -26,8 +26,9 @@ References
  Available upon request.
 0315-0261043
  
- wellhunza95@gmail.com
-House No7 D–2 R / 174 North Nazimabad Karachi 5 September 1994
+hunza762@gmail.com
+House No7 D–2 R / 174 North Karachi,
+Karachi 5 September 1994
 
 review my [excel File](https://1drv.ms/x/c/d8e2e26a9156b5ab/IQBdNkwIonekQKLh_1FHig0YATDlZf58JO8wZk9cbmDu5_U?e=cIO6bJ)
 https://1drv.ms/x/c/d8e2e26a9156b5ab/IQBdNkwIonekQKLh_1FHig0YATDlZf58JO8wZk9cbmDu5_U?e=cIO6bJ
