@@ -1,8 +1,9 @@
-*Final CV Code - Copy This:*
-# **Hunza**
+
+# *Resume**
+To choose a position with opportunities to utilize my skills,talent & sincerity for the better achievement of the organization & I will try to do my best with the organization.
 
 ## **Experience**
-- **OCT 2019 - DEC 2019** | *Ziauddin College of Physiotherapy* | Officer Assistant
+- **OCT 2019 - DEC 2019** | *Ziauddin College of Physiotherapy* | Office Assistant
 - **Jan 2022 - March 2022** | *Global Business Industry* | Customer Representative
 
 ## **Education**
@@ -18,14 +19,13 @@
 ## **Skills**
 **MS Office** • **Empathetic** • **Open Communication** • **Great Adaptability**
 
-## **Contact**
-<span style="color:blue">**Email:**</span> wellhunza95@gmail.com  
-<span style="color:green">**Phone:**</span> 0315-0261043  
-<span style="color:purple">**Address:**</span> House No 7 D-2 R/174, North Nazimabad, Karachi  
+## **Contact*
+**📧 Email:** wellhunza95@gmail.com  
+**📱 Phone:** 0315-0261043  
+**🏠 Address:** House No 7 D-2 R/174, North Karachi, Karachi  
+
 **DOB:** 5 September 1994
 
 ---
 [📂 Review My Excel File](https://1drv.ms/x/c/d8e2e26a9156b5ab/IQBdNkwIonekQKLh_1FHig0YATDlZf58JO8wZk9cbmDu5_U?e=cIO6bJ)
-*Important 2 changes:*
-1.  *Upar `# Hunza `* - Apna naam likh do yahan
-2.  *Colors* - Email, Phone, Address
+
