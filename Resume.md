@@ -1,5 +1,5 @@
 
-# *Resume**
+# *Resume*
 To choose a position with opportunities to utilize my skills,talent & sincerity for the better achievement of the organization & I will try to do my best with the organization.
 
 ## **Experience**
@@ -23,7 +23,6 @@ To choose a position with opportunities to utilize my skills,talent & sincerity 
 **📧 Email:** wellhunza95@gmail.com  
 **📱 Phone:** 0315-0261043  
 **🏠 Address:** House No 7 D-2 R/174, North Karachi, Karachi  
-
 **DOB:** 5 September 1994
 
 ---
