@@ -1,12 +1,8 @@
 
 👋 Hi, I'm Hunza
 
-**Data Entry | HTML & CSS Basic**
-
-
-[📄 Download PDF Version](Hunza_pdf.pdf)
-[CV](resume.md)  |  [Resume](resume.md)
-
+**Data Entry | HTML & CSS Basi |  
+[<img src="https://img.shields.io/badge/VIEW%20MY%20RESUME-blue?style=for-the-badge" />](Resume.md)
 
    
 
