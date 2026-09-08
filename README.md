@@ -3,7 +3,10 @@
 
 **Data Entry | HTML & CSS Basic**
 
-[<img src="https://img.shields.io/badge/DOWNLOAD%20CV-PDF-red?style=for-the-badge" />](Hunza_pdf.pdf)
+
+[📄 Download PDF Version](Hunza_pdf.pdf)
+[CV](resume.md)  |  [Resume](resume.md)
+
 
    
 
