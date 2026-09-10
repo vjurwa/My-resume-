@@ -24,7 +24,7 @@ To choose a position with opportunities to utilize my skills,talent & sincerity 
 **📱 Phone:** 0315-0261043  
 **🏠 Address:** House No 7 D-2 R/174, North Karachi, Karachi  
 **DOB:** 5 September 1994
-
+https://drive.google.com/file/d/1J4ew04IEhrty1vVK9ZJlSP6TPGGej9_A/view?usp=drivesdk
 ---
 [📂 Review My Excel File](https://1drv.ms/x/c/d8e2e26a9156b5ab/IQBdNkwIonekQKLh_1FHig0YATDlZf58JO8wZk9cbmDu5_U?e=cIO6bJ)
 
