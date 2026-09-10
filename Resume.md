@@ -29,4 +29,4 @@ To choose a position with opportunities to utilize my skills,talent & sincerity 
 [📂 Review My Excel File](https://1drv.ms/x/c/d8e2e26a9156b5ab/IQBdNkwIonekQKLh_1FHig0YATDlZf58JO8wZk9cbmDu5_U?e=cIO6bJ)
 
 [Review My ppt File](https://drive.google.com/file/d/15iGiz718vhY54fiUiHl3X-2Z-CBr9Ktp/view?usp=drivesdk)
-[review my html file] (`https://codepen.io/Hunza-the-reactor/full/01a08b4d-ba32-74ab-b2cc-66162c46e267`)
+https://codepen.io/Hunza-the-reactor/full/01a08b4d-ba32-74ab-b2cc-66162c46e267
