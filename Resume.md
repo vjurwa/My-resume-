@@ -11,9 +11,8 @@ I m intermediate in Ms office with experience in Office Assistant. Skilled in Ex
 - **Matriculation in Science** | Naveed Public Secondary School | 2011
 
 ## **Certifications**
-- Short Course in **C#** | JDC Free IT City | 2025
-- Short Course in **Web Designing** | Computer Collegiate | 2019
-- Short Course in **IT** | Farooq-e-Azam | 2016
+- Short Course in **Web Designing** |  | 2019
+- Short Course in **Ms Office** | 2016
 
 ## **Skills**
 **MS Office** • **Empathetic** • **Open Communication** • **Great Adaptability**
