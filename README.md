@@ -1,7 +1,8 @@
 
 👋 Hi, I'm Hunza
 
-**Data Entry | HTML & CSS Basic|  
+**Data Entry | HTML & CSS Basic| 
+[👀 View My Resume](https://github.com/vjurwa/My-resume-/blob/main/Resume.md)
 [<img src="https://img.shields.io/badge/VIEW%20MY%resume.md-blue?style=for-the-badge" />](resume.md)
 
   
