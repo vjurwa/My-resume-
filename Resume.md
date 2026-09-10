@@ -22,8 +22,8 @@ To choose a position with opportunities to utilize my skills,talent & sincerity 
 ## *Contact*
 **📧 Email:** wellhunza95@gmail.com  
 **📱 Phone:** 0315-0261043  
-**🏠 Address:** House No 7 D-2 R/174, North Karachi, Karachi  
-**DOB:** 5 September 1994
+**🏠 Address:**  Karachi,Sindh, Pakistan 
+
 # *Hunza PDF*
 https://drive.google.com/file/d/1J4ew04IEhrty1vVK9ZJlSP6TPGGej9_A/view?usp=drivesdk
 ---
