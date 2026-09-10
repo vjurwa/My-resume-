@@ -1,7 +1,6 @@
 
 # *Resume*
-To choose a position with opportunities to utilize my skills,talent & sincerity for the better achievement of the organization & I will try to do my best with the organization.
-
+I m intermediate in Ms office with experience in Office Assistant. Skilled in Excel,basic html ,css & accurate data handling.
 ## **Experience**
 - **OCT 2019 - DEC 2019** | *Ziauddin College of Physiotherapy* | Office Assistant
 - **Jan 2022 - March 2022** | *Global Business Industry* | Customer Representative
