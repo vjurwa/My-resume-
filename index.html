@@ -2,37 +2,18 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Vjurwa - Resume</title>
+<title>Vjurwa Portfolio</title>
 <style>
-body { font-family: Arial; background: #fff3cd; margin:0; padding:0; }
-header { background: #1e3a8a; color: white; text-align: center; padding: 20px; }
-.container { padding: 20px; }
-.section { background: white; margin: 20px 0; padding: 15px; border-radius: 8px; }
-
-.box {
-  width: 150px; 
-  height: 150px; 
-  background: orange;  /* Orange box */
-  margin: 30px auto; 
-  display: flex; 
-  align-items: center; 
-  justify-content: center;
-  color: white;
-  font-weight: bold; 
-  border-radius: 10px; 
-  transition: all 0.3s;
-  cursor: pointer;
-}
-
-.box:hover, .box:active {
-  transform: rotate(45deg) scale(1.3); /* ghumega */
-  background: red;
-  box-shadow: 0px 0px 20px red;
-}
-
-marquee { background: #1e3a8a; color: white; padding: 10px; }
-footer { text-align: center; padding: 10px; background: #1e3a8a; color: white; }
-.cv-btn{background:#1e3a8a;color:white;padding:12px 25px;text-decoration:none;border-radius:8px;font-weight:bold;display:inline-block}.cv-btn:hover{background:orange}
+body{font-family:Arial;background:#f0f0f0;margin:0}
+header{background:#1e3a8a;color:white;text-align:center;padding:20px}
+.container{max-width:800px;margin:20px auto;padding:20px}
+.section{background:white;padding:20px;border-radius:10px;margin-bottom:20px;box-shadow:0 2px 5px rgba(0,0,0,0.1)}
+.box{background:#ff9800;color:white;text-align:center;padding:50px;border-radius:10px;font-size:20px;font-weight:bold;cursor:pointer;transition:0.3s}
+.box:hover{transform:rotate(45deg) scale(1.3);background:red;box-shadow:0 0 20px red}
+marquee{background:#1e3a8a;color:white;padding:10px}
+footer{text-align:center;padding:10px}
+.cv-btn{background:#1e3a8a;color:white;padding:12px 25px;text-decoration:none;border-radius:8px;font-weight:bold;display:inline-block;transition:0.3s}
+.cv-btn:hover{background:orange;transform:scale(1.1)}
 </style>
 </head>
 <body>
@@ -51,20 +32,26 @@ footer { text-align: center; padding: 10px; background: #1e3a8a; color: white; }
 
     <!-- BOX YAHAN HAI -->
     <p style="text-align:center;">Is box ko touch karo 👇</p>
-<div class="box" tabindex="0">Touch Me</div>
+    <div class="box" tabindex="0">Touch Me</div>
 
-<div style="text-align:center; margin:20px 0;"><a href="resume.md" target="_blank" class="cv-btn">📄 Meri CV Dekho</a></div>
+    <!-- CV BUTTON -->
+    <div style="text-align:center; margin:20px 0;">
+      <a href="resume.md" target="_blank" class="cv-btn">📄 Meri CV Dekho</a>
+    </div>
+
+  </div>
+
   <div class="section">
-    <marquee behavior="scroll" direction="left" scrollamount="5">
-      🚀 Welcome to My CSS Transform Project 🚀
+    <marquee behavior="scroll" direction="left">
+      🚀 Welcome to My CSS Transform Project
     </marquee>
   </div>
 
-</div>
-
 <footer>
-  <p>© 2026 Vjurwa. All rights reserved.</p>
+  <p>© 2026 Vjurwa</p>
 </footer>
 
 </body>
 </html>
+ 
+
