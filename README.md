@@ -11,7 +11,7 @@
 
 Welcome to my GitHub! I m intermediate about Data Entry, MS Office, & basic Html,Css.
 📊 My Excel Work
-[![Data Entry](https://img.shields.io/badge/📊_Data_Entry_Work-View-4285F4?style=for-the-badge)](APNA_DATA_ENTRY_LINK)
+[![Data Entry](https://img.shields.io/badge/📊_Data_Entry_Work-View-4285F4?style=for-the-badge)]
 [![Attendance](https://img.shields.io/badge/📗_Attendance_Sheet-View-34A853?style=for-the-badge)](https://docs.google.com/spreadsheets/d/1Wr6U1xnXpeaBrYIX2MHewMAy_-u7J74r/edit?usp=drivesdk&ouid=107673589990409946969&rtpof=true&sd=true)
 🚀 Live Demo (click on box)
 [🎨 Click Here to See My Animation](https://codepen.io/Hunza-the-reactor/full/01a08b4d-ba32-74ab-b2cc-66162c46e267)
