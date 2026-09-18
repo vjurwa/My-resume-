@@ -9,7 +9,7 @@
 [<img src="https://img.shields.io/badge/DOWNLOAD%20PDF-red?style=for-the-badge" />](https://drive.google.com/uc?export=download&id=1J4ew04IEhrty1vVK9ZJlSP6TPGGej9_A)
  
 
-Welcome to my GitHub! I m intermediate about Data Entry, MS Office, & basic Html,Css.
+Welcome to my GitHub! I m intermediate about Data Entry,MS Office & Basic Html,Css.
 [![📊 DATA ENTRY WORK VIEW](https://img.shields.io/badge/📊_DATA_ENTRY_WORK-VIEW-blue?style=for-the-badge)](https://1drv.ms/x/c/d8e2e26a9156b5ab/IQBdNkwIonekQKLh_1FHig0YATDlZf58JO8wZk9cbmDu5_U?e=cIO6bJ)
 [![Attendance](https://img.shields.io/badge/📗_Attendance_Sheet-View-34A853?style=for-the-badge)](https://docs.google.com/spreadsheets/d/1Wr6U1xnXpeaBrYIX2MHewMAy_-u7J74r/edit?usp=drivesdk&ouid=107673589990409946969&rtpof=true&sd=true)
 🚀 Live Demo (click on box)
