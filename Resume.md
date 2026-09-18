@@ -26,6 +26,7 @@ I m intermediate in Ms office with experience in Office Assistant. Skilled in Ex
 https://drive.google.com/file/d/1J4ew04IEhrty1vVK9ZJlSP6TPGGej9_A/view?usp=drivesdk
 ---
 [📂 Review My Excel File](https://1drv.ms/x/c/d8e2e26a9156b5ab/IQBdNkwIonekQKLh_1FHig0YATDlZf58JO8wZk9cbmDu5_U?e=cIO6bJ)
+https://docs.google.com/spreadsheets/d/1Wr6U1xnXpeaBrYIX2MHewMAy_-u7J74r/edit?usp=drivesdk&ouid=107673589990409946969&rtpof=true&sd=true
 
 [Review My ppt File](https://drive.google.com/file/d/15iGiz718vhY54fiUiHl3X-2Z-CBr9Ktp/view?usp=drivesdk)
 [Review My Html File]
