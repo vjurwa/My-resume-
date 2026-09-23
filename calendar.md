@@ -3,6 +3,41 @@
   <head>
     <title>Calendar</title>
     <link rel="stylesheet" href="styles.css" />
+    <style>
+    th, td{
+  background: white;
+  border: 2px solid black;
+  border-radius: 8px;
+  box-shadow: 0px 0px 8px gray;
+  width: 70px;
+  height: 25px;
+  text-align: center;
+}
+.l{border:2px solid black;font-style:italic;
+font-weight:bold;border-radius:15px;text-align:center;}
+.h:hover td{background-color:red;width:3px;}
+.c:hover{background-color:red;font-weight:bold;}
+.r:hover td{background-color:green; align: center;}
+.r1:hover td{background-color:green;}
+.r2:hover td{background-color:green;}
+.r3:hover td{background-color:green;}
+.page{background-color:yellow;}
+.calendar-title{
+  font-size: 45px;
+  font-weight: bold;
+  text-align: center;
+  animation: slide 3s infinite alternate;
+  background: white;
+  border: 3px solid black;
+  border-radius: 15px;
+  padding: 10px;
+}
+
+@keyframes slide{
+  0%{ transform: translateX(-10px); color: black; }
+  100%{ transform: translateX(10px); color: green; }
+}
+</style>
   </head>
       <body class="page">
       <table class="l" cellspacing="15px">
@@ -63,36 +98,4 @@
   </table>
   </body>
 </html>
-th, td{
-  background: white;
-  border: 2px solid black;
-  border-radius: 8px;
-  box-shadow: 0px 0px 8px gray;
-  width: 70px;
-  height: 25px;
-  text-align: center;
-}
-.l{border:2px solid black;font-style:italic;
-font-weight:bold;border-radius:15px;text-align:center;}
-.h:hover td{background-color:red;width:3px;}
-.c:hover{background-color:red;font-weight:bold;}
-.r:hover td{background-color:green; align: center;}
-.r1:hover td{background-color:green;}
-.r2:hover td{background-color:green;}
-.r3:hover td{background-color:green;}
-.page{background-color:yellow;}
-.calendar-title{
-  font-size: 45px;
-  font-weight: bold;
-  text-align: center;
-  animation: slide 3s infinite alternate;
-  background: white;
-  border: 3px solid black;
-  border-radius: 15px;
-  padding: 10px;
-}
 
-@keyframes slide{
-  0%{ transform: translateX(-10px); color: black; }
-  100%{ transform: translateX(10px); color: green; }
-}
