@@ -18,6 +18,13 @@
       <li>1979</li>
       <li>1947</li>
     </ul>
+      <ul type="square">
+      <li>1960</li>
+      <li>1945</li>
+      <li>1979</li>
+      <li>1947</li>
+      
+    </ul>
       <select>
           <option>--academic--</option>
           <option>9th</option>
