@@ -17,4 +17,4 @@ Welcome to my GitHub! I m intermediate about Data Entry,MS Office & Basic Html,C
 ## 📅 My Calendars
 
 - 🎨 Design wala Calendar (Color + Hover) - [Live Demo Dekho](https://onecompiler.com/html/4544bjy93)
-- 📄 **Simple Table wala Calendar (GitHub Preview)** - [Yahan Click Karo](./calendar.md)
+- 📄 **Simple Table wala Calendar (GitHub Preview)** - [Click here](./calendar.md)
